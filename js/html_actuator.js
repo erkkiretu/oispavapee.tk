@@ -13,7 +13,7 @@ function HTMLActuator() {
   
 }
 
-dogeSayings = ['Lisää viinaa!', 'Silmät liikkuu vielä!', 'Pirkka <3', 'Perjantai!', 'Lauantai!', 'Keskiviikko!', 'Jaksaa!', 'Gambina <3', 'Känni päälle!', 'Kas, lempijuomaani!', 'Kova meno!', 'Napsut vielä!' ,'Sit saunaan!',
+dogeSayings = ['Pari höyryy', 'Ei hittaa vielä', 'Nyt hittaa', '', 'Vittu et hittaa', 'Keskiviikko!', 'Jaksaa!', 'Gambina <3', 'Känni päälle!', 'Kas, lempijuomaani!', 'Kova meno!', 'Napsut vielä!' ,'Sit saunaan!',
     'Normipäivä!', 'Lisää!!!','Pienet sille!','Napsuu!','Tuo mullekin!','Viinaa!!','Kossua!','Jallua!','Leijonaa!','Tuo kaksi!','Muutamat vielä']
 
 HTMLActuator.prototype.actuate = function (grid, metadata) {
