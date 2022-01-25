@@ -57,13 +57,6 @@ function getRandomInt(min, max) {
 function loop() {
   requestAnimationFrame(loop);
 
-  // slow game loop to 15 fps instead of 60 (60/15 = 4)
-  if (++count < 4) {
-    return;
-  }
-
-  count = 0;
-  context.clearRect(0,0,canvas.width,canvas.height);
 
   // move snake by it's velocity
   snake.x += snake.dx;
