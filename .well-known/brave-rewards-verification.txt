@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: oispavapee.tk
+Token: 0418bfa81254fd51248dcc2fb3b55274236a50453fc64de5c680639b825634d4
